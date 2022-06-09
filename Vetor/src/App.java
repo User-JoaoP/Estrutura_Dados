@@ -1,4 +1,3 @@
-import javax.print.attribute.standard.Media;
 
 /*a) Faça um vetor em java chamado números com 10 inteiros 
   b) Mostre a tela com os dez inteiros
